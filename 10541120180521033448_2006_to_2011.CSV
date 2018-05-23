@@ -1,0 +1,270 @@
+"Citizenship (5), Place of Birth (236), Immigrant Status and Period of Immigration (11), Age Groups (10) and Sex (3) for the Population in Private Households of Canada, Provinces, Territories, Census Metropolitan Areas and Census Agglomerations, 2011 National Household Survey"
+"Geography = Canada [1]"
+"Global non-response rate (GNR) [2] =  26.1 %"
+"Immigrant status and period of immigration (11) =       2006 to 2011"
+"Age groups (10) = Total - Age groups"
+"Sex (3) = Total - Sex"
+"Place of birth (236)","Total - Citizenship [3]","  Canadian citizens","    Canadian citizens only","    Citizens of Canada and at least one other country","  Not Canadian citizens [4]", 
+"Total - Place of birth of respondent",1162915,157645,119985,37660,1005275 
+"  Born in Canada",345,40,45,0,300 
+"  Born outside Canada",1162570,157600,119940,37660,1004975 
+"    Americas",188385,30520,20985,9535,157870 
+"      North America",45025,10425,6645,3780,34595 
+"        Saint Pierre and Miquelon",15,0,0,0,0 
+"        United States",45015,10430,6645,3785,34585 
+"      Central America",31060,4830,3650,1185,26230 
+"        Belize",165,90,75,0,80 
+"        Costa Rica",1245,115,65,50,1130 
+"        El Salvador",4050,395,290,105,3660 
+"        Guatemala",1220,265,165,95,960 
+"        Honduras",1270,90,75,15,1180 
+"        Mexico",22310,3705,2820,880,18605 
+"        Nicaragua",550,125,105,15,425 
+"        Panama",250,65,50,20,185 
+"      Caribbean and Bermuda",47150,6060,4900,1160,41090 
+"        Anguilla",0,0,0,0,0 
+"        Antigua and Barbuda",200,0,0,0,190 
+"        Aruba",0,0,0,0,0 
+"        Bahamas",285,90,50,45,190 
+"        Barbados",620,165,80,90,455 
+"        Bermuda",485,320,290,30,165 
+"        Cayman Islands",100,45,40,0,55 
+"        Cuba",5550,715,405,305,4845 
+"        Curaçao",25,0,0,0,25 
+"        Dominica",260,50,20,0,210 
+"        Dominican Republic",1805,195,175,25,1605 
+"        Grenada",1080,200,180,15,885 
+"        Guadeloupe",100,0,0,0,90 
+"        Haiti",19305,1675,1380,300,17635 
+"        Jamaica",9800,1530,1345,190,8270 
+"        Martinique",125,25,0,15,100 
+"        Montserrat",0,0,0,0,0 
+"        Puerto Rico",80,0,0,0,75 
+"        Saint Kitts and Nevis",65,0,0,0,60 
+"        Saint Lucia",1065,115,90,25,950 
+"        Saint Vincent and the Grenadines",2330,405,390,0,1920 
+"        Sint Maarten (Dutch part)",20,0,0,0,20 
+"        Trinidad and Tobago",3815,495,440,50,3320 
+"        Turks and Caicos Islands",0,0,0,0,0 
+"        Virgin Islands, British",0,0,0,0,0 
+"        Virgin Islands, United States",0,0,0,0,0 
+"      South America",65115,9190,5770,3410,55925 
+"        Argentina",2415,315,120,195,2105 
+"        Bolivia [5]",1140,465,325,140,670 
+"        Brazil",9535,795,415,385,8740 
+"        Chile",2030,320,225,105,1710 
+"        Colombia",27555,3875,2230,1640,23685 
+"        Ecuador",2030,295,235,60,1735 
+"        French Guiana",0,0,0,0,0 
+"        Guyana",6010,1040,935,105,4975 
+"        Paraguay",955,505,350,150,455 
+"        Peru",6415,720,445,275,5695 
+"        Suriname",65,0,0,0,55 
+"        Uruguay",775,70,60,0,705 
+"        Venezuela [6]",6185,785,430,355,5400 
+"      Americas, n.i.e. [7]",35,0,0,0,25 
+"    Europe",159745,20505,12660,7845,139240 
+"      Western Europe",37865,3160,1960,1200,34705 
+"        Austria",440,0,0,0,430 
+"        Belgium",1715,205,95,110,1510 
+"        France",20380,1645,890,750,18735 
+"        Germany",10455,845,655,185,9615 
+"        Luxembourg",30,0,0,0,30 
+"        Monaco",30,0,0,0,20 
+"        Netherlands",3240,245,185,65,2995 
+"        Switzerland",1575,200,120,80,1375 
+"      Eastern Europe",68650,10905,6515,4390,57745 
+"        Belarus",3025,495,340,160,2525 
+"        Bulgaria",4035,640,260,380,3390 
+"        Czech Republic",1280,80,50,35,1200 
+"        Estonia",200,25,0,20,175 
+"        Hungary",3435,280,145,135,3155 
+"        Latvia",585,45,0,35,545 
+"        Lithuania",440,100,95,0,340 
+"        Moldova [8]",6565,750,475,275,5820 
+"        Poland",5365,785,545,240,4580 
+"        Romania",13365,2775,1320,1455,10595 
+"        Russian Federation",17100,2895,1680,1215,14205 
+"        Slovakia",865,150,105,45,715 
+"        Ukraine",12385,1885,1510,380,10500 
+"      Northern Europe",36630,3520,2080,1435,33115 
+"        Denmark",350,35,35,0,315 
+"        Faroe Islands",0,0,0,0,0 
+"        Finland",365,45,0,40,325 
+"        Guernsey",0,0,0,0,0 
+"        Iceland",155,0,0,0,150 
+"        Ireland, Republic of",1745,165,75,80,1580 
+"        Isle of Man",0,0,0,0,0 
+"        Jersey",40,0,0,0,45 
+"        Norway",265,45,30,15,225 
+"        Sweden",730,70,35,35,655 
+"        United Kingdom [9]",32965,3160,1895,1265,29805 
+"      Southern Europe",16580,2925,2110,815,13660 
+"        Albania",3050,560,330,225,2495 
+"        Bosnia and Herzegovina",1160,340,255,85,815 
+"        Croatia",695,115,80,40,585 
+"        Gibraltar",15,0,0,0,15 
+"        Greece",970,145,110,35,825 
+"        Italy",1950,445,370,70,1510 
+"        Kosovo [10]",1210,285,270,10,925 
+"        Macedonia, Republic of [11]",990,195,75,125,795 
+"        Malta",120,20,0,20,95 
+"        Montenegro",110,0,0,0,95 
+"        Portugal",3030,430,360,65,2605 
+"        Serbia",2460,265,155,110,2195 
+"        Slovenia",75,25,20,0,50 
+"        Spain",735,85,60,25,655 
+"      Europe, n.i.e. [12]",0,0,0,0,0 
+"    Africa",145720,20470,15075,5395,125250 
+"      Western Africa",29960,4555,3390,1160,25405 
+"        Benin",975,55,40,20,915 
+"        Burkina Faso",675,90,60,30,585 
+"        Cape Verde",0,0,0,0,0 
+"        Côte d'Ivoire",3455,325,175,150,3130 
+"        Gambia",165,35,30,10,125 
+"        Ghana",3145,675,615,60,2475 
+"        Guinea",1795,230,165,65,1565 
+"        Guinea-Bissau",30,0,0,0,25 
+"        Liberia",655,145,115,30,510 
+"        Mali",700,145,110,35,555 
+"        Mauritania",270,80,65,0,190 
+"        Niger",390,60,40,15,330 
+"        Nigeria",13035,2170,1570,600,10870 
+"        Senegal",2800,350,270,80,2450 
+"        Sierra Leone",540,85,60,30,455 
+"        Togo",1320,90,65,20,1230 
+"      Eastern Africa",33890,5655,4790,865,28235 
+"        Burundi",2820,445,380,65,2370 
+"        Comoros",75,0,0,0,70 
+"        Djibouti",535,70,65,0,460 
+"        Eritrea",2525,315,255,60,2210 
+"        Ethiopia",6590,1305,1260,45,5290 
+"        Kenya",3705,685,485,200,3025 
+"        Madagascar",975,165,115,45,815 
+"        Malawi",100,65,60,0,35 
+"        Mauritius",4195,490,245,245,3700 
+"        Mozambique",110,25,20,0,85 
+"        Réunion",160,0,0,0,160 
+"        Rwanda",2010,155,145,15,1850 
+"        Seychelles",60,0,0,0,50 
+"        Somalia",4315,755,675,80,3555 
+"        Tanzania [13]",1160,260,255,0,895 
+"        Uganda",1145,185,170,0,965 
+"        Zambia",605,110,90,25,495 
+"        Zimbabwe",2805,605,555,50,2200 
+"      Northern Africa",62335,7320,4625,2695,55015 
+"        Algeria",21240,2470,1480,990,18775 
+"        Egypt",11105,1305,735,580,9800 
+"        Libya [14]",2085,280,195,80,1810 
+"        Morocco",20295,2270,1510,760,18025 
+"        Sudan",2840,480,430,50,2365 
+"        Tunisia",4760,515,275,240,4245 
+"      Central Africa",13270,1930,1655,275,11335 
+"        Angola",370,145,75,75,225 
+"        Cameroon",5425,555,485,75,4865 
+"        Central African Republic",150,0,0,0,145 
+"        Chad",315,80,70,0,235 
+"        Congo, The Democratic Republic of the",5865,1000,925,75,4865 
+"        Congo, Republic of the",700,70,65,10,625 
+"        Equatorial Guinea",35,0,0,0,35 
+"        Gabon",400,70,30,35,330 
+"      Southern Africa",6275,1010,615,395,5270 
+"        Botswana",200,30,25,0,165 
+"        Lesotho",20,0,0,0,20 
+"        Namibia",330,45,45,0,290 
+"        South Africa, Republic of",5660,900,510,385,4760 
+"        Swaziland",65,0,0,0,30 
+"      Africa, n.i.e. [15]",0,0,0,0,0 
+"    Asia",661570,85040,70500,14540,576530 
+"      West Central Asia and the Middle East",110705,17080,12045,5040,93625 
+"        Afghanistan",8425,1205,1070,135,7215 
+"        Armenia",1205,155,105,50,1050 
+"        Azerbaijan",1055,120,100,25,935 
+"        Bahrain",335,50,40,0,290 
+"        Cyprus",85,10,0,0,75 
+"        Georgia",460,65,30,30,390 
+"        Iran [16]",30290,4835,3030,1805,25455 
+"        Iraq",16915,1500,1160,340,15415 
+"        Israel",5230,1090,750,345,4135 
+"        Jordan",3250,500,385,110,2750 
+"        Kazakhstan",3375,385,290,100,2985 
+"        Kuwait",2520,460,355,100,2060 
+"        Kyrgyzstan",695,105,85,20,590 
+"        Lebanon",12420,2840,2005,835,9580 
+"        Oman",370,70,30,35,305 
+"        Qatar",530,55,30,15,480 
+"        Saudi Arabia",4340,495,340,155,3845 
+"        Syria [17]",4150,805,610,195,3350 
+"        Tajikistan",440,55,40,0,390 
+"        Turkey",5850,1070,660,410,4785 
+"        Turkmenistan",160,75,60,0,85 
+"        United Arab Emirates",4800,585,480,100,4220 
+"        Uzbekistan",2025,180,150,30,1850 
+"        West Bank and Gaza Strip (Palestine) [18]",1295,330,175,155,965 
+"        Yemen",480,50,40,0,430 
+"      Eastern Asia",171255,19695,17535,2165,151555 
+"        China [19]",122090,13395,12380,1015,108695 
+"        Hong Kong Special Administrative Region",4805,1300,1130,165,3505 
+"        Japan",6390,565,330,240,5820 
+"        Korea, North [20]",95,0,0,0,90 
+"        Korea, South [21]",27670,2765,2570,185,24905 
+"        Macao Special Administrative Region",145,25,25,0,120 
+"        Mongolia",775,70,50,20,700 
+"        Taiwan",9295,1575,1045,535,7715 
+"      Southeast Asia",180300,19210,17270,1940,161090 
+"        Brunei Darussalam",170,0,0,0,165 
+"        Burma (Myanmar)",3845,580,490,90,3265 
+"        Cambodia",1775,485,420,60,1295 
+"        Indonesia",2605,260,240,20,2340 
+"        Laos [22]",250,50,45,0,200 
+"        Malaysia",2405,195,180,15,2210 
+"        Philippines",152270,14600,13240,1355,137675 
+"        Singapore",1800,195,190,0,1605 
+"        Thailand",3900,555,485,75,3335 
+"        Viet Nam [23]",11280,2280,1960,325,9000 
+"      Southern Asia",199310,29055,23660,5395,170250 
+"        Bangladesh",14110,2645,1940,710,11465 
+"        Bhutan",2095,0,0,0,2085 
+"        India",121420,15155,13615,1535,106265 
+"        Nepal",5210,395,310,85,4815 
+"        Pakistan",35040,8005,5210,2795,27040 
+"        Sri Lanka",21430,2850,2575,275,18585 
+"      Asia, n.i.e. [24]",0,0,0,0,0 
+"    Oceania",7150,1065,720,350,6085 
+"      Australia",3575,510,305,205,3065 
+"      Fiji",1710,260,250,0,1450 
+"      French Polynesia",30,0,0,0,25 
+"      New Caledonia",30,0,0,0,30 
+"      New Zealand",1685,285,160,125,1405 
+"      Papua New Guinea",0,0,0,0,0 
+"      Samoa",15,0,0,0,0 
+"      Tonga",0,0,0,0,0 
+"      Oceania, n.i.e. [25]",80,0,0,0,75 
+"    Other",0,0,0,0,0 
+"Note"
+"[1] Excludes National Household Survey data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"[2] For the 2011 National Household Survey (NHS) estimates, the global non-response rate (GNR) is used as an indicator of data quality. This indicator combines complete non-response (household) and partial non-response (question) into a single rate. The value of the GNR is presented to users. A smaller GNR indicates a lower risk of non-response bias and as a result, lower risk of inaccuracy. The threshold used for estimates' suppression is a GNR of 50% or more. For more information, please refer to the National Household Survey User Guide, 2011."
+"[3] Includes persons who are stateless."
+"[4] Includes persons who are stateless."
+"[5] The official name of Bolivia is Plurinational State of Bolivia."
+"[6] The official name of Venezuela is Bolivarian Republic of Venezuela."
+"[7] Includes countries such as Bonaire, Saint Eustatius and Saba; Falkland Islands (Malvinas); Greenland; Saint Barthélemy; Saint Martin (French part); and South Georgia and the South Sandwich Islands."
+"[8] The official name of Moldova is Republic of Moldova."
+"[9] The official name of United Kingdom is United Kingdom of Great Britain and Northern Ireland. United Kingdom includes Scotland, Wales, England and Northern Ireland (excludes Isle of Man, the Channel Islands and British Overseas Territories)."
+"[10] The official name of Kosovo is Republic of Kosovo."
+"[11] Known as Former Yugoslav Republic of Macedonia in the United Nations and other international bodies."
+"[12] Includes countries such as Åland Islands; Andorra; Holy See (Vatican City State); Liechtenstein; San Marino; and Svalbard and Jan Mayen Island."
+"[13] The official name of Tanzania is United Republic of Tanzania."
+"[14] The official name of Libya is Libyan Arab Jamahiriya."
+"[15] Includes countries such as Mayotte; Saint Helena; Sao Tome and Principe; and Western Sahara."
+"[16] The official name of Iran is Islamic Republic of Iran."
+"[17] The official name of Syria is Syrian Arab Republic."
+"[18] West Bank and Gaza Strip are the territories referred to in the Declaration of Principles, signed by Israel and the Palestine Liberation Organization in 1993. Palestine refers to pre-1948 British mandate Palestine."
+"[19] China excludes Hong Kong Special Administrative Region and Macao Special Administrative Region."
+"[20] The official name of North Korea is Democratic People's Republic of Korea."
+"[21] The official name of South Korea is Republic of Korea."
+"[22] The official name of Laos is Lao People's Democratic Republic."
+"[23] The official name of Viet Nam is Socialist Republic of Viet Nam."
+"[24] Includes countries such as British Indian Ocean Territory; Maldives; and Timor-Leste."
+"[25] Includes countries such as American Samoa; Christmas Island; Cocos (Keeling) Islands; Cook Islands; Guam; Kiribati; Marshall Islands; Micronesia, Federated States of; Nauru; Niue; Norfolk Island; Northern Mariana Islands; Palau; Pitcairn; Solomon Islands; Tokelau; Tuvalu; United States Minor Outlying Islands; Vanuatu; and Wallis and Futuna."
+"Source: Statistics Canada - 2011 National Household Survey. Catalogue Number 99-010-X2011026."
